@@ -1,0 +1,27 @@
+.Login {
+    box-sizing: border-box;
+}
+
+form{
+    width: 300px;
+    margin: 200px auto;
+    text-align: center;
+}
+
+.textLogin {
+    color: black;
+}
+
+input {
+    display: block;
+    margin: 10px auto;
+    width: 250px;
+    height: 30px;
+}
+
+button {
+    display: block;
+    margin: 10px auto;
+    width: 70px;
+    height: 30px;
+}
